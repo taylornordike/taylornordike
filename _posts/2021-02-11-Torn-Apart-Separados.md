@@ -10,7 +10,7 @@ The project _Torn Apart / Separados Vol. 2_ describes in visual detail the econo
 
 The main action occurs under the “Visualizations” tab, where a map of the United States can be found color-coded by ICE award amounts, as well as five sub-tabs that unlock a wealth of different statistics and information. The first two tabs, “Districts” and “Rain” ran very smoothly and provided a wealth of information regarding ICE’s monetary awards per district. The tab “Gain” explores minority and women-owned businesses and their awards. While in one graph, the one indicating the number of said businesses is easily readable and can be hovered over for exact numbers, it is near-impossible to see the rewarded amount of money in the right-most chart. “Freezer” shows ICE’s connections through exact products and contractors, but was very difficult to read and comprehend and ended up only confusing me more with its crossed and colorful design. Additionally, I found that despite being told to click play on this tab, nothing happened and I saw no change to the data. 
 
-**Additional Information**
+**Beyond the Map**
 
 Americans tend to explore things from left to right, whether consciously or unconsciously, which made the second tab, “Textures”, a bit odd in my eyes. The introduction and project explanation can be found after the main map, giving the reader a more stilted viewing experience than if there were a proper introduction before the main event. While there was some new and interesting information in this tab, nearly everything learned on the map was repeated in “Textures” and, in my opinion, felt repetitive and unnecessary. 
 
@@ -18,7 +18,7 @@ The tabs “Reflections” and “Allies” were probably my favorite. In “Ref
 
 **Technology and Data**
 
-As stated in the “Credits” tab of the project, the technology behind the website and map were both inspired by this GitHub repository that allows for the complex map building seen in Torn Apart / Separados. Other open technologies were utilized, including, but not limited to, “Leaflet”, “Bootstrap”, and “Babel”. All data for the project’s second volume was drawn from USASpending.gov and combined with volume one’s data, which was extracted from ICE/CBP websites, federal records, and news reports. 
+As stated in the “Credits” tab of the project, the technology behind the website and map were both inspired by [this](http://github.com/muziejus/leaflet-quickstart) GitHub repository that allows for the complex map building seen in Torn Apart / Separados. Other open technologies were utilized, including, but not limited to, “Leaflet”, “Bootstrap”, and “Babel”. All data for the project’s second volume was drawn from [USASpending.gov](USASpending.gov) and combined with volume one’s data, which was extracted from ICE/CBP websites, federal records, and news reports. 
 
 **Conclusion**
 
