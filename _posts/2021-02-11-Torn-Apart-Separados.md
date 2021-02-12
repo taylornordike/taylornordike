@@ -1,4 +1,8 @@
-The project _Torn Apart / Separados Vol. 2_ describes in visual detail the economic aspects of the organization behind millions of deportations, ICE. Through the use of an interactive map of the United States containing several viewing options and a plethora of information, the enormous team behind this project has created a, as they put it, “deep dive into the financial heart of immigrant detention in the US”. Recorded in 2018 and containing statistics from the previous four years, _Torn Apart / Separados_ dissects and analyzes the humanitarian crisis of 2018 and that which led up to it. 
+###Project:
+###Project Directors:
+###Project URL: 
+
+The project _Torn Apart / Separados Vol. 2_ describes in visual detail the economic aspects of the organization behind millions of deportations, ICE. Through the use of an interactive map of the United States containing several viewing options and a plethora of information, the team behind this project has created a, as they put it, “deep dive into the financial heart of immigrant detention in the US”. Recorded in 2018 and containing statistics from the previous four years, _Torn Apart / Separados_ dissects and analyzes the humanitarian crisis of 2018 and that which led up to it. 
 
 **The Interactive Map**
 
