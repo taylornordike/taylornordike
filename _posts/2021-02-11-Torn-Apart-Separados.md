@@ -8,7 +8,10 @@ The project _Torn Apart / Separados Vol. 2_ describes in visual detail the econo
 
 **The Interactive Map**
 
-The main action occurs under the “Visualizations” tab, where a map of the United States can be found color-coded by ICE award amounts, as well as five sub-tabs that unlock a wealth of different statistics and information. The first two tabs, “Districts” and “Rain” ran very smoothly and provided a wealth of information regarding ICE’s monetary awards per district. The tab “Gain” explores minority and women-owned businesses and their awards. While in one graph, the one indicating the number of said businesses is easily readable and can be hovered over for exact numbers, it is near-impossible to see the rewarded amount of money in the right-most chart. “Freezer” shows ICE’s connections through exact products and contractors, but was very difficult to read and comprehend and ended up only confusing me more with its crossed and colorful design. Additionally, I found that despite being told to click play on this tab, nothing happened and I saw no change to the data. 
+The main action occurs under the “Visualizations” tab, where a map of the United States can be found color-coded by ICE award amounts, as well as five sub-tabs that unlock a wealth of different statistics and information. The first two tabs, “Districts” and “Rain” ran very smoothly and provided a wealth of information regarding ICE’s monetary awards per district. 
+
+
+The tab “Gain” explores minority and women-owned businesses and their awards. While in one graph, the one indicating the number of said businesses is easily readable and can be hovered over for exact numbers, it is near-impossible to see the rewarded amount of money in the right-most chart. “Freezer” shows ICE’s connections through exact products and contractors, but was very difficult to read and comprehend and ended up only confusing me more with its crossed and colorful design. Additionally, I found that despite being told to click play on this tab, nothing happened and I saw no change to the data. 
 
 **Beyond the Map**
 
