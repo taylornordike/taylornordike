@@ -1,8 +1,8 @@
-### Project:
+### Project: Torn Apart / Separados Volume 2
 
-### Project Directors:
+### Project Directors: Manan Ahmed, Alex Gil, Moacir P. de Sá Pereira, Roopika Risam, Maira E. Álvarez, Sylvia A. Fernández, Linda Rodriguez, and Merisa Martinez
 
-### Project URL: 
+### Project URL: [http://xpmethod.columbia.edu/torn-apart/volume/2/index](http://xpmethod.columbia.edu/torn-apart/volume/2/index)
 
 The project _Torn Apart / Separados Vol. 2_ describes in visual detail the economic aspects of the organization behind millions of deportations, ICE. Through the use of an interactive map of the United States containing several viewing options and a plethora of information, the team behind this project has created a, as they put it, “deep dive into the financial heart of immigrant detention in the US”. Recorded in 2018 and containing statistics from the previous four years, _Torn Apart / Separados_ dissects and analyzes the humanitarian crisis of 2018 and that which led up to it. 
 
