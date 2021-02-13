@@ -24,7 +24,9 @@ The tab “Gain” explores minority and women-owned businesses and their awards
 
 Americans tend to explore things from left to right, whether consciously or unconsciously, which made the second tab, “Textures”, a bit odd in my eyes. The introduction and project explanation can be found after the main map, giving the reader a more stilted viewing experience than if there were a proper introduction before the main event. While there was some new and interesting information in this tab, nearly everything learned on the map was repeated in “Textures” and, in my opinion, felt repetitive and unnecessary. 
 
-The tabs “Reflections” and “Allies” were probably my favorite. In “Reflections”, the team reached out to historians, activists, artists, and writers for their personal stories and research. The tab made the rest of the data more digestible, putting names and faces to the plethora of numbers and figures. In a similar vein, “Allies” gave access to resources that have been established to help those negatively affected by ICE’s reign. Providing information such as addresses, phone numbers, and e-mail addresses. 
+The tabs “Reflections” and “Allies” were probably my favorite. In “Reflections”, the team reached out to historians, activists, artists, and writers for their personal stories and research. The tab made the rest of the data more digestible, putting names and faces to the plethora of numbers and figures. 
+
+In a similar vein, “Allies” gave access to resources that have been established to help those negatively affected by ICE’s reign. Providing information such as addresses, phone numbers, and e-mail addresses, a caring and concerned tone is established in favor of people who have been affected. 
 
 **Technology and Data**
 
