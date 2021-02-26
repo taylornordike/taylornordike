@@ -15,3 +15,5 @@ We were each assigned four pages of Stetson’s short story via Google Docs, whe
 When going into this project, I was quite nervous about the idea of utilizing TEI. Despite my anticipated Graphic Design minor, I am still relatively new to the digitized world of coding and the like, and this has been my first experience with it. And, in full honesty, I can say I really enjoyed the process! 
 
 It was like putting together a puzzle and making the right things click in the right places, and while sometimes it gave me some trouble, all that did was add to the experience. It was a bit frustrating as I had to start over at one point because the file didn’t save correctly, but I’m not sure if that was the program’s fault or my own. All in all, however, it was a relatively enjoyable introduction to coding. 
+
+![Torn Apart Graphs](https://taylornordike.github.io/taylornordike/images/TornApartGraphs.png)
