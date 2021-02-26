@@ -6,11 +6,11 @@ This background information brought me closer to the text and was interesting to
 
 Before this class, I was unaware of everything that went on behind the scenes of converting a manuscript to a digital version. I ignorantly believed that it was similar to posting a blog when in actuality, there is much more that goes into it.
 
-![GoogleDocsScreenshot](https://taylornordike.github.io/taylornordike/images/GoogleDocsScreenshot.png)
+![Screenshot of the story in Google Docs](taylornordike.github.io/taylornordike/images/GoogleDocsScreenshot.png)
 
 We were each assigned four pages of Stetson’s short story via Google Docs, where we marked up occurrences such as underlined and crossed-out words, page and paragraph breaks, and formatting and editing mistakes. From there, we plugged the text into Oxygen and applied the code to the desired sections, translating something old into a modern and accessible format. 
 
-![Screenshot(13)](https://taylornordike.github.io/taylornordike/images/Screenshot(13).png)
+![Screenshot of the Coding](taylornordike.github.io/taylornordike/images/Screenshot(13).png)
 
 When going into this project, I was quite nervous about the idea of utilizing TEI. Despite my anticipated Graphic Design minor, I am still relatively new to the digitized world of coding and the like, and this has been my first experience with it. And, in full honesty, I can say I really enjoyed the process! 
 
