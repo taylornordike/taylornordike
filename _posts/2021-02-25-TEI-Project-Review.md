@@ -4,7 +4,7 @@ The world of Text Coding Initiative (TEI) can be pretty scary until you submerge
 
 This background information brought me closer to the text and was interesting to analyze deeper by translating it into TEI, which is something I have not been asked to do before. Being given a small part of the text got me close to, not just that section, but the story in its entirety as I considered questions such as “why did she cross this out?” and “why does she underline this word but not that one?”. It was an interesting inside look into the mind of the story and Charlotte Perkins Stetson. 
 
-Before this class, I was unaware of everything that went on behind the scenes of converting a manuscript to a digital version. I ignorantly believed that it was similar to posting a blog when in actuality, there is much more that goes on. 
+Before this class, I was unaware of everything that went on behind the scenes of converting a manuscript to a digital version. I ignorantly believed that it was similar to posting a blog when in actuality, there is much more that goes into it.
 
 ![Screenshot of the story in Google Docs](https://taylornordike.github.io/taylornordike/images/GoogleDocsScreenshot.png)
 
