@@ -10,7 +10,7 @@ Before this class, I was unaware of everything that went on behind the scenes of
 
 We were each assigned four pages of Stetson’s short story via Google Docs, where we marked up occurrences such as underlined and crossed-out words, page and paragraph breaks, and formatting and editing mistakes. From there, we plugged the text into Oxygen and applied the code to the desired sections, translating something old into a modern and accessible format. 
 
-![Screenshot of the code in Oxygen](https://github.com/taylornordike/taylornordike/blob/main/images/Screenshot(13).png)
+![Screenshot of the code in Oxygen](https://github.com/taylornordike/taylornordike/blob/main/images/Screenshot%20(13).png)
 
 When going into this project, I was quite nervous about the idea of utilizing TEI. Despite my anticipated Graphic Design minor, I am still relatively new to the digitized world of coding and the like, and this has been my first experience with it. And, in full honesty, I can say I really enjoyed the process! 
 
