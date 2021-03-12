@@ -8,7 +8,7 @@
 
 **Summary**
 
-_The Photographic Life of Harriet Tubman_ is a project that has been put together for the purpose of telling the fascinating and important story of ex-slave, abolitionist, and feminist H  arriet Tubman. This website covers the many facets of her life ranging from her life as a slave to the fight to put her on the twenty-dollar bill in a digestible but informative manner. Throughout the website is a collection of both photography and artwork made in her honor, bringing her legacy to life even a hundred years after her death. 
+_The Photographic Life of Harriet Tubman_ is a project that has been put together for the purpose of telling the fascinating and important story of ex-slave, abolitionist, and feminist Harriet Tubman. This website covers the many facets of her life ranging from her life as a slave to the fight to put her on the twenty-dollar bill in a digestible but informative manner. Throughout the website is a collection of both photography and artwork made in her honor, bringing her legacy to life even a hundred years after her death. 
 
 **Content**
 
@@ -18,7 +18,7 @@ When opened, the viewer is automatically brought to the _Home_ page, which is ch
 
 Scrolling further down, there is a timeline including major events of her life that can be absorbed in a glance, as well as a Harriet Tubman zine full of information and artwork. My personal favorite aspect of this tab (and maybe the whole project) was the QR code leading the viewer to a Harriet Tubman Spotify playlist, which worked to bridge the gap between past and present and made history modern. 
 
-The next tab is titled _About_, and the viewer was led to the same five major sections found on the Home page, making this tab repetitive and unnecessary. The following tab entitled _Art_ contains a plethora of art across multiple media, including photography, fine art, sculptures, children’s literature, and television/cinematic renditions of Harriet Tubman. These divisions as well as the succinct descriptions included with each piece makes it easy to navigate and comprehend. However, the same tabs are included when you click on the original art tab, which brings us to the issue of repetition faced in the _About_ section. 
+The next tab is titled _About_, and the viewer was led to the same five major sections found on the Home page, making this tab repetitive and unnecessary. The following tab entitled _Art_ contains a plethora of art across multiple media, including photography, fine art, sculptures, children’s literature, and television/cinematic renditions of Harriet Tubman. These divisions as well as the succinct descriptions included with each piece makes it easy to navigate and comprehend. However, when you hover over the original art tab, it displays these categories again, causing the same issue of repetition faced in the _About_ section. 
 
 ![Harriet Tubman About Page](https://taylornordike.github.io/taylornordike/images/HTAboutPage.png)
 
@@ -26,7 +26,7 @@ The next two sections focused more on the history - which says a lot as the prev
 
 ![Harriet Tubman Timeline](https://taylornordike.github.io/taylornordike/images/HTTimeline.png)
 
-The final tab, entitled _Personal Reflections_, provided personal articles on Tubman’s life and influence by Annie Han, Daniella Welton, and Veronica Niamba. This section served to contextualize the information provided and apply it to the modern world despite the fact Tubman lived over a hundred years ago. I found the fact it was placed at the end very tactful - they give you all of this information then seamlessly transition into answering why it all matters. 
+The final tab, entitled _Personal Reflections_, provided personal articles on Tubman’s life and influence by Annie Han, Daniella Welton, and Veronica Niamba. This section served to contextualize the information provided and apply it to the modern world despite the fact Tubman lived over a hundred years ago. I found the fact it was placed at the end very tactful - they give you all of this information then seamlessly transition into answering the question 'why does this matter?'. 
 
 **Technology**
 
@@ -34,4 +34,4 @@ This project was created entirely using WIX, an HTML content management system a
 
 **Conclusion**
 
-I found _The Photographic Life of Harriet Tubman_ to be a very insightful, informative, and an overall well-done project that did a good job of making history modern. This project made the life of a woman worth remembering a platform to continue impacting us all
+I found _The Photographic Life of Harriet Tubman_ to be a very insightful, informative, and an overall well-done project that did a good job of making history modern. This project gave the life of a woman worth remembering a platform to continue impacting us all, no matter our background or prior knowledge of the situation. 
