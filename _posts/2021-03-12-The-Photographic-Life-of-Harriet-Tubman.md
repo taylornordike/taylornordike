@@ -1,11 +1,15 @@
 **Project:** The Photographic Life of Harriet Tubman 
+
 **Project Directors:** Unknown
+
 **Project URL:** ![https://photographiclifeht.wixsite.com/harriettubman](https://photographiclifeht.wixsite.com/harriettubman)
 
 **Summary**
+
 _The Photographic Life of Harriet Tubman_ is a project that has been put together for the purpose of telling the fascinating and important story of ex-slave, abolitionist, and feminist Harriet Tubman. This website covers the many facets of her life ranging from her life as a slave to the fight to put her on the twenty-dollar bill in a digestible but informative manner. Throughout the website is a collection of both photography and artwork made in her honor, bringing her legacy to life even a hundred years after her death. 
 
 **Content**
+
 From the moment I opened this project, I was entranced by its visual appeal that is consistent throughout all six of the main tabs. The project’s content is divided into these tabs, which include _Home, About, Art, The $20 Bill, Tubman and Durham, and Personal Reflections_, and are lined along the top of the page. 
 
 When opened, the viewer is automatically brought to the _Home_ page, which is chock-full of information. It divides Tubman’s life into five major sections: Life in Slavery, Abolitionist, Religious Leader, Nurse and Spy, and Feminist, giving brief but informative descriptions of each. The information is easily digestible for readers who might not be history buffs, but not passive in the manner it is presented. 
@@ -19,7 +23,9 @@ The next two sections focused more on the history - which says a lot as the prev
 The final tab, entitled _Personal Reflections_, provided personal articles on Tubman’s life and influence by Annie Han, Daniella Welton, and Veronica Niamba. This section served to contextualize the information provided and apply it to the modern world despite the fact Tubman lived over a hundred years ago. I found the fact it was placed at the end very tactful - they give you all of this information then seamlessly transition into answering why it all matters. 
 
 **Technology**
+
 This project was created entirely using WIX, an HTML content management system and AI platform traditionally used to create a wide range of electronic media. WIX is available to everyone with access to the internet, so it’s interesting to see such a well-developed project using such an accessible platform. However, I’m not sure if this is due to WIX or the creator of the project itself, but I was unable to find any information on the creator(s). I would love to be able to give credit where credit is due, but their names are either not on the website or so hidden that I am unable to find them. 
 
 **Conclusion**
-I found The Photographic Life of Harriet Tubman to be a very insightful, informative, and an overall well-done project that did a good job of making history modern. This project made the life of a woman worth remembering a platform to continue impacting us all
+
+I found _The Photographic Life of Harriet Tubman_ to be a very insightful, informative, and an overall well-done project that did a good job of making history modern. This project made the life of a woman worth remembering a platform to continue impacting us all
