@@ -4,6 +4,8 @@
 
 **Project URL:** [https://photographiclifeht.wixsite.com/harriettubman](https://photographiclifeht.wixsite.com/harriettubman)
 
+![Front Page of The Photographic Life of Harriet Tubman](https://taylornordike.github.io/taylornordike/images/Screenshot(23).jpg)
+
 **Summary**
 
 _The Photographic Life of Harriet Tubman_ is a project that has been put together for the purpose of telling the fascinating and important story of ex-slave, abolitionist, and feminist Harriet Tubman. This website covers the many facets of her life ranging from her life as a slave to the fight to put her on the twenty-dollar bill in a digestible but informative manner. Throughout the website is a collection of both photography and artwork made in her honor, bringing her legacy to life even a hundred years after her death. 
