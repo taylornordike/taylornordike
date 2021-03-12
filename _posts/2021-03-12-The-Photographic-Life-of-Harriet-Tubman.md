@@ -20,11 +20,11 @@ Scrolling further down, there is a timeline including major events of her life t
 
 The next tab is titled _About_, and the viewer was led to the same five major sections found on the Home page, making this tab repetitive and unnecessary. The following tab entitled _Art_ contains a plethora of art across multiple media, including photography, fine art, sculptures, children’s literature, and television/cinematic renditions of Harriet Tubman. These divisions as well as the succinct descriptions included with each piece makes it easy to navigate and comprehend. However, the same tabs are included when you click on the original art tab, which brings us to the issue of repetition faced in the _About_ section. 
 
-![Front Page of The Photographic Life of Harriet Tubman](https://taylornordike.github.io/taylornordike/images/AboutPage.png)
+![Harriet Tubman About Page](https://taylornordike.github.io/taylornordike/images/AboutPage.png)
 
 The next two sections focused more on the history - which says a lot as the previous tabs are very historically-based on their own. _Tubman and Durham_ discusses Tubman’s impact on the Durham branch of YWCA, offering multiple historical documents and primary sources to immerse the reader further. _The $20 Bill_ tells the story of the fight to print Tubman’s face on the twenty-dollar bill and how that debate shifted under President Trump’s presidency. This section was well-organized and included a timeline for the more visual learners such as myself, however, the timeline was organized backward which made it difficult to follow. Additionally, the sentence on 2016/04/21 cuts off prematurely and I was unable to find where it continued. 
 
-![Front Page of The Photographic Life of Harriet Tubman](https://taylornordike.github.io/taylornordike/images/HTTimeline.png)
+![Harriet Tubman Timeline](https://taylornordike.github.io/taylornordike/images/HTTimeline.png)
 
 The final tab, entitled _Personal Reflections_, provided personal articles on Tubman’s life and influence by Annie Han, Daniella Welton, and Veronica Niamba. This section served to contextualize the information provided and apply it to the modern world despite the fact Tubman lived over a hundred years ago. I found the fact it was placed at the end very tactful - they give you all of this information then seamlessly transition into answering why it all matters. 
 
