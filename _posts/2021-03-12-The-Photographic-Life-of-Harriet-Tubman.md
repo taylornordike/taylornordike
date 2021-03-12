@@ -4,7 +4,7 @@
 
 **Project URL:** [https://photographiclifeht.wixsite.com/harriettubman](https://photographiclifeht.wixsite.com/harriettubman)
 
-![Front Page of The Photographic Life of Harriet Tubman](https://taylornordike.github.io/taylornordike/images/Screenshot(23).png)
+![Front Page of The Photographic Life of Harriet Tubman](https://taylornordike.github.io/taylornordike/images/HTHomescreen.png)
 
 **Summary**
 
