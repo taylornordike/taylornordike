@@ -2,7 +2,7 @@
 
 **Project Directors:** Unknown
 
-**Project URL:** ![https://photographiclifeht.wixsite.com/harriettubman](https://photographiclifeht.wixsite.com/harriettubman)
+**Project URL:** [https://photographiclifeht.wixsite.com/harriettubman](https://photographiclifeht.wixsite.com/harriettubman)
 
 **Summary**
 
